@@ -1,0 +1,11 @@
+{
+  "name": "e_commerce_app",
+  "version": "1.0.0",
+  "description": "e-commerce with node react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Guerrero Bonilla",
+  "license": "ISC"
+}
